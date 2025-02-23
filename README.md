@@ -8,3 +8,4 @@ You can easily modify the chatbot's prompts by editing the prompts.py file.
 
 Exporting Scripts:
 The chatbot can upload conversation scripts in PDF format for easy sharing or review.
+![image](https://github.com/user-attachments/assets/557f619b-4f17-49b1-95b2-5e4fccf9641f)
